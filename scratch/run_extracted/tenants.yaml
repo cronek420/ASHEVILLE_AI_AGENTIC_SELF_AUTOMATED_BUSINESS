@@ -1,0 +1,9 @@
+tenants:
+  asheville:
+    location: "Asheville NC"
+    spreadsheet_id: "1sq1xtu50uiNHm97db9c5-doqgatOpYkl8IQroscVCCY"
+    email_user: "" # Falls back to AGENCY_ENV if empty
+  charlotte:
+    location: "Charlotte NC"
+    spreadsheet_id: "dummy-charlotte-id-here"
+    email_user: "charlotte@example.com"

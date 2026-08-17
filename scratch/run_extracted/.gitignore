@@ -1,0 +1,32 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+client_secret.json
+token.json
+gmail_token.json
+approvals.local.json
+dnc.local.json
+sent_ledger.local.jsonl
+agency_cron.log
+
+# Dependencies and build artifacts
+node_modules/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.next/
+dist/
+build/
+coverage/
+
+# Local and generated state
+.tmp/
+logs/
+outputs/
+intake_change_packets.json
+.DS_Store

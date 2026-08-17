@@ -1,0 +1,48 @@
+WHERE TO FIND BUYERS TODAY,,,,
+REFERENCE TAB — use public business information; do not scrape personal data or send generic bulk outreach.,,,,
+,,,,
+Directory,Best Categories,How to Use,URL,
+Asheville Chamber,All local small businesses,Search by category and inspect public websites,https://web.ashevillechamber.org/search,
+Explore Asheville,"Tours, recreation, spas, attractions, lodging, food",Prioritize visitor-facing businesses with weak booking paths,https://www.exploreasheville.com/,
+AIR Asheville,Independent restaurants,"Check menu, hours, call, directions, and reservation flow",https://airasheville.org/find-a-restaurant/,
+Go Local Asheville,Independent businesses,Use category listings and public business websites,https://golocalasheville.com/directory,
+UNC Asheville directory,Alumni-owned local businesses,Look for owner-operated firms and public contact pages,https://www.unca.edu/giving/business-directory/,
+Google Maps,All target categories,Search by category; verify one factual public issue before contact,https://maps.google.com/,
+,,,,
+,,,,
+Idea ID,Search Term,Visible Buying Signal,Qualification Rule,Priority
+IDEA-01,Asheville tour booking,No website or only a social profile,Active business + public contact + factual visible need,High
+IDEA-01,Asheville photographer book session,Booking link is buried or opens poorly on mobile,Active business + public contact + factual visible need,High
+IDEA-01,Asheville massage appointment,No click-to-call button,Active business + public contact + factual visible need,High
+IDEA-01,Asheville food truck catering,Current event or seasonal offer lacks a focused page,Active business + public contact + factual visible need,Medium
+IDEA-01,Asheville event vendor,"Hours, directions, or FAQs are difficult to find",Active business + public contact + factual visible need,Medium
+IDEA-02,Asheville restaurant menu,404 or dead button,Active business + public contact + factual visible need,High
+IDEA-02,Asheville salon book now,Telephone number is not tap-to-call,Active business + public contact + factual visible need,High
+IDEA-02,Asheville contractor contact,Menu/booking link points to an old destination,Active business + public contact + factual visible need,High
+IDEA-02,Asheville tours reservations,Primary CTA is below the fold on mobile,Active business + public contact + factual visible need,Medium
+IDEA-02,Asheville photographer contact,Contact form fails or lacks confirmation,Active business + public contact + factual visible need,Medium
+IDEA-03,Asheville event this weekend business,Upcoming event listed but weak social promotion,Active business + public contact + factual visible need,High
+IDEA-03,Asheville restaurant special,Outdated last social post,Active business + public contact + factual visible need,High
+IDEA-03,Asheville food truck schedule,New offer shown only on a flyer,Active business + public contact + factual visible need,High
+IDEA-03,Asheville wellness workshop,Inconsistent captions/graphics,Active business + public contact + factual visible need,Medium
+IDEA-03,Asheville grand opening,No email announcement for an upcoming promotion,Active business + public contact + factual visible need,Medium
+IDEA-04,site:google.com/maps Asheville business wrong hours,Incorrect hours or phone,Active business + public contact + factual visible need,High
+IDEA-04,Asheville reopened restaurant,Missing website/booking link,Active business + public contact + factual visible need,High
+IDEA-04,Asheville new salon,Generic or inaccurate primary category,Active business + public contact + factual visible need,High
+IDEA-04,Asheville contractor Google profile,Few or outdated photos,Active business + public contact + factual visible need,Medium
+IDEA-04,Asheville tour operator,Reopened/relocated business with stale details,Active business + public contact + factual visible need,Medium
+IDEA-05,Asheville restaurant reviews,Eight or more unanswered reviews,Active business + public contact + factual visible need,High
+IDEA-05,Asheville hotel Google reviews,Recent negative review with no reply,Active business + public contact + factual visible need,High
+IDEA-05,Asheville spa reviews,Repeated copy-paste responses,Active business + public contact + factual visible need,High
+IDEA-05,Asheville tour reviews,Reviews mention unresolved operational issues,Active business + public contact + factual visible need,Medium
+IDEA-05,Asheville contractor reviews,Hospitality/tourism business entering busy period,Active business + public contact + factual visible need,Medium
+IDEA-06,Asheville contractor free estimate Facebook,“DM to book” is the only CTA,Active business + public contact + factual visible need,High
+IDEA-06,Asheville photographer DM to book,Contact page has no form or a broken form,Active business + public contact + factual visible need,High
+IDEA-06,Asheville event vendor contact,Owner asks repeated qualifying questions,Active business + public contact + factual visible need,High
+IDEA-06,Asheville tour inquiry,No submission log,Active business + public contact + factual visible need,Medium
+IDEA-06,Asheville consultant contact form,No immediate confirmation after inquiry,Active business + public contact + factual visible need,Medium
+IDEA-07,Asheville contractor office manager,Same data copied between email and Sheets,Active business + public contact + factual visible need,High
+IDEA-07,Asheville photographer inquiry form,Owner manually sends the same confirmation,Active business + public contact + factual visible need,High
+IDEA-07,Asheville appointment reminders,New inquiries are checked in multiple places,Active business + public contact + factual visible need,High
+IDEA-07,Asheville small business Zapier,Appointments lack reminders,Active business + public contact + factual visible need,Medium
+IDEA-07,Asheville event vendor booking,Repeated missed or delayed follow-up,Active business + public contact + factual visible need,Medium

@@ -1,0 +1,19 @@
+tenants:
+  asheville:
+    location: Asheville NC
+    spreadsheet_id: 1TDwiyl3Z0WGyJjDcQ7__6DqST0U1OuPGYujAxnb2JLg
+    email_user: ''
+    gids:
+      live_dashboard: '1965670317'
+      approval_queue: '1919393072'
+      prospect_tracker: '182297405'
+  charlotte:
+    location: Charlotte NC
+    spreadsheet_id: 1bcJhI8o56jRLfvalhzbYEhQzClwhNOhdKezEH9WbdWk
+    email_user: ''
+    gids:
+      live_dashboard: '1392110023'
+      approval_queue: '1718249099'
+      prospect_tracker: '768862463'
+master:
+  spreadsheet_id: 1ehBXj2JTaUbpn0ix99FGJ4NwusPeL1pN5ZNdaBmBktw

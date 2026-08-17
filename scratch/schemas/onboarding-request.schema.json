@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public Onboarding Request",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "email", "startingPoint", "source"],
+  "properties": {
+    "name": {"type": "string", "minLength": 1, "maxLength": 120},
+    "email": {"type": "string", "format": "email", "maxLength": 254},
+    "startingPoint": {"type": "string", "enum": ["existing_business", "new_venture", "idea_exploration"]},
+    "companyName": {"type": "string", "maxLength": 160},
+    "website": {"type": "string", "format": "uri", "maxLength": 2048},
+    "notes": {"type": "string", "maxLength": 2000},
+    "source": {"type": "string", "const": "universal-ai-workforce-website"}
+  }
+}

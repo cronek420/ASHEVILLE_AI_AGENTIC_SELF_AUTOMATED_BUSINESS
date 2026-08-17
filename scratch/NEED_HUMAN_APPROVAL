@@ -1,0 +1,175 @@
+# Human Approval and Attention Ledger
+
+This is the single human-facing control file for the Asheville AI Agentic Self-Automated Business.
+Atlas/Codex must keep this file current whenever an action, decision, risk, credential step, cost,
+external connection, or manual review requires Tom Gronek's attention. Silence is not approval.
+
+Last updated: 2026-08-06 America/New_York
+Owner / approver: Tom Gronek
+Google Cloud project: `asheville-ai-agentic-automate`
+Active Google identity: `gronekthomas@gmail.com` and 'lexiconatlas@gmail.com'
+
+## How Tom approves
+
+Review the `PENDING` items below. Either edit their status to `APPROVED` and fill in the selected
+value, or reply in chat with the approval ID and exact selections. Approval applies only to the
+listed scope. Deployment must stop if a material destination, cost, origin, permission, or scope changes.
+
+## Approval history
+
+| Approval | Status | Scope | Evidence |
+| --- | --- | --- | --- |
+| `GATE-A-20260806-01` | APPROVED | Implement the Universal AI Workforce intake bridge locally and test it without deployment | Tom replied “Approve Gate A” |
+| `DISCOVERY-20260806-01` | APPROVED | Continue with safe local work and read-only Google Cloud inspection after creating this ledger | Tom replied “approve continue…” |
+
+## Current system state
+
+- Local intake implementation: COMPLETE and VERIFIED.
+- Daily owner email template: UPDATED locally to include links, day-to-day process explanation, and public intake status.
+- Unit tests: 13 passed.
+- Command-center governance checks: 22 passed.
+- Safe agency pipeline: 5 passed, 0 failed.
+- Public deployment: NOT DEPLOYED.
+- Website form connection: NOT CONNECTED.
+- Cloud Run Admin API: DISABLED.
+- Firestore API: DISABLED. The legacy Datastore API is enabled, but that does not establish the
+  required Firestore database or approve its immutable location.
+- Cloud Billing linkage: UNKNOWN. It could not be read because the Cloud Billing API is disabled.
+- Docker verification: NOT RUN because Docker is not installed locally.
+- Original ZIP remains at:
+  `C:\Users\crone\Projects\Temp_to_DELETE\UNIVERSAL_AI_WORKFORCE_GCLOUD_INTEGRATION_PACK.zip`
+
+## What the integration will do
+
+```text
+Approved public website origin
+  -> POST /v1/public/onboarding-requests
+  -> Cloud Run validation, exact-origin CORS, body limit, and rate limit
+  -> private Firestore intake record
+  -> NEEDS_OWNER_REVIEW + DRY_RUN
+  -> Atlas-Orchestrator stages a deduplicated Approval Queue record
+  -> Tom approves, rejects, or requests clarification
+```
+
+It will not automatically start agents, contact anyone, send confirmation email, collect payment,
+create accounts, access customer systems, publish work, or change the active offer.
+
+## What Tom will see in the daily email
+
+- Command Center link
+- Drive link
+- Website origin link
+- Public intake API link automatically, but only after deployment sets the exact approved URL
+- A plain-English explanation of what the system did today
+- A plain-English explanation of what Tom needs to do next
+- A reminder that intake stays in owner review before any business action begins
+
+## Gate B decisions still required
+
+### `GATE-B-REGION-01` — Immutable data and service region
+
+- Status: PENDING
+- Recommended selection: `us-east1` for both Cloud Run and a regional Firestore database, keeping
+  the workload near Asheville and avoiding a cross-region design.
+- Important: A Firestore database location cannot be changed after creation without migration.
+- Tom selection: `APPROVED`
+
+### `GATE-B-COST-01` — Billing and spending boundary
+
+- Status: PENDING
+- Cloud Run, Firestore, builds, artifact storage, logs, and Secret Manager may incur usage charges.
+- Existing project budget constraint: total starting budget is `$0–$100`.
+- Recommended operating boundary: configure a `$10/month` billing alert and stop before any known
+  action expected to push integration costs above `$25/month`. Google Cloud budgets alert; they do
+  not automatically impose a hard spending cap.
+- Approval must include a maximum monthly amount.
+- Tom-approved maximum monthly amount: `$50 / month`
+
+### `GATE-B-SERVICES-01` — Enable Google Cloud services
+
+- Status: PENDING
+- Requested scope: enable only the APIs needed for Cloud Run deployment, Firestore, Secret Manager,
+  build/artifact handling, and read-only billing visibility as required.
+- No unrelated Google Cloud services may be enabled under this approval.
+
+### `GATE-B-DATABASE-01` — Create private Firestore intake database
+
+- Status: PENDING
+- Requested scope: create the default native Firestore database in the approved region.
+- Data stored: name, email, starting point, optional company, optional website, optional notes,
+  source, timestamps, review state, and non-reversible HMAC rate-limit identifiers.
+- Recommended retention: delete rejected/abandoned intake PII after 90 days unless legal or active
+  client-work requirements justify retention. Audit records should retain request ID and outcome,
+  not the submitted message content.
+- Tom-approved retention: `90 days`
+
+### `GATE-B-IAM-01` — Create least-privilege runtime identity
+
+- Status: PENDING
+- Requested scope: create or select a dedicated Cloud Run service account with only the minimum
+  Firestore, Secret Manager secret-access, and logging permissions required by the intake service.
+- No owner/editor role and no downloadable service-account key are authorized.
+
+### `GATE-B-SECRET-01` — Create production hashing secret
+
+- Status: PENDING
+- Requested scope: generate `INTAKE_HASH_KEY` securely and store it only in Google Secret Manager.
+- Its value must never appear in this file, chat, source code, logs, `.env.example`, or Google Sheets.
+
+### `GATE-B-DEPLOY-01` — Deploy public Cloud Run endpoint
+
+- Status: PENDING
+- Proposed service name: `workforce-intake`
+- Proposed region: value approved in `GATE-B-REGION-01`
+- Public access: unauthenticated access is required only for the narrow onboarding POST endpoint and
+  `/healthz`; application controls remain fail-closed.
+- Production website origin to allow:
+  `https://universal-ai-workforce.gronekthomas.chatgpt.site`
+- Production API URL: UNKNOWN until deployment. It must be written here and reviewed before website connection.
+- Approved production API URL: `https://workforce-intake-857010500760.us-east1.run.app`
+
+### `GATE-B-SHEET-01` — Confirm Approval Queue schema
+
+- Status: PENDING
+- Required columns: `Request ID`, `Status`, `Mode`, `Source`, `Submitted At`, `Name`, `Email`,
+  `Starting Point`, `Company Name`, `Website`, `Notes`, `External Action Taken`, `Next Step`.
+- The integration fails closed if these columns are missing. Adding or mapping columns must preserve
+  existing rows and be performed only by Atlas-Orchestrator.
+
+### `GATE-B-WEBSITE-01` — Connect the live website form
+
+- Status: PENDING
+- This approval may occur only after the deployed API URL, HTTPS behavior, CORS response, rate limits,
+  Firestore write, audit event, and Approval Queue dry run are verified.
+- Requested change: replace the simulated form success with a POST to the approved API URL.
+- Required success message: “Your request has been received for owner review. No systems or accounts
+  have been connected, and no business actions will begin without approval.”
+- No direct Google Sheets, Stripe, Gmail, or private workforce access may be added to browser code.
+
+## Manual security review required
+
+- Review the unread Google account security-alert messages reported by the inbox monitor.
+- Local sensitive files exist at `.env`, `client_secret.json`, `token.json`, and `gmail_token.json`.
+  Their values were not copied into the integration. They must not be uploaded in a container build,
+  Cloud Run source bundle, shared archive, logs, documentation, or source control.
+- Rotate credentials if any of those files were ever shared, committed, or uploaded outside the
+  intended local machine. Current evidence does not prove that exposure occurred.
+- Before deployment, verify Cloud Billing is linked and alerts are configured.
+
+## Gate B execution order after approval
+
+1. Verify billing linkage and approved monthly boundary.
+2. Enable only approved APIs.
+3. Create Firestore in the approved immutable region with the approved retention policy.
+4. Create least-privilege runtime identity and Secret Manager value.
+5. Inspect and safely map the live Approval Queue headers.
+6. Build and deploy `workforce-intake` without local credential files.
+7. Record the exact API URL in this file.
+8. Run health, origin rejection, validation, rate-limit, idempotency, Firestore, audit, and dry-run
+   Approval Queue tests.
+9. Stop and obtain `GATE-B-WEBSITE-01` approval against the exact deployed URL.
+10. Connect the website and run a single synthetic end-to-end request.
+
+## One-line approval template
+
+`APPROVE GATE B: region=us-east1; max_monthly_cost=$____; retention_days=90; enable_services=yes; create_firestore=yes; least_privilege_iam=yes; create_secret=yes; deploy_public_api=yes; inspect_or_add_sheet_columns=yes. Website connection remains pending until the exact API URL is verified.`

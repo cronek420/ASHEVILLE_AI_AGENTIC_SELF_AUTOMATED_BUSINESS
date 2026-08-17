@@ -1,0 +1,167 @@
+TOP 7 OFFER DETAILS,,,,,
+"REFERENCE TAB — detailed deliverables, boundaries, proof, tools, signals, and search terms from the seven reports.",,,,,
+,,,,,
+Idea ID,Rank,Title,Section,Item #,Detail
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Buying Signal,1,No website or only a social profile
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Buying Signal,2,Booking link is buried or opens poorly on mobile
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Buying Signal,3,No click-to-call button
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Buying Signal,4,Current event or seasonal offer lacks a focused page
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Buying Signal,5,"Hours, directions, or FAQs are difficult to find"
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Deliverable,1,One responsive single-page site
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Deliverable,2,Owner-approved headline and offer summary
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Deliverable,3,Click-to-call and booking/contact buttons
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Deliverable,4,"Hours, directions/map link, up to five FAQs"
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Deliverable,5,One supplied testimonial and social links
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Deliverable,6,"Hosted preview, mobile/desktop test, and handoff"
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Excluded / Boundary,1,"Custom scheduling software, payment system development, domain purchase, full SEO campaign, copywriting beyond the supplied offer, more than one page, or access to customer card data."
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Revision Policy,1,One consolidated revision round
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Upsell,1,$49 domain connection or $79/month updates and hosting support
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Demo / Sample,1,"Create a clearly labeled concept page for one local tour, photographer, or wellness provider using only facts from its public site. Replace the live booking action with a disabled “Demo booking button” or link to the company’s existing public booking page."
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Tools,1,"GitHub Pages, Cloudflare Pages, Carrd free/Pro trial, or a simple static HTML template; ChatGPT for first-draft structure; browser mobile emulation for QA."
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Search Term,1,Asheville tour booking
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Search Term,2,Asheville photographer book session
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Search Term,3,Asheville massage appointment
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Search Term,4,Asheville food truck catering
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Search Term,5,Asheville event vendor
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Proof,1,"A mobile screen recording showing offer-to-action in under 15 seconds, plus desktop/mobile screenshots and a link checklist."
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Alternatives,1,"Instagram bio, Facebook page, DIY Carrd/Wix/Square page, existing full website, or a local agency."
+IDEA-01,1,24-Hour Mobile Booking-Page Rescue,Payment Rationale,1,Can approve $75-$249 quickly when the page supports a current revenue-producing offer.
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Buying Signal,1,404 or dead button
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Buying Signal,2,Telephone number is not tap-to-call
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Buying Signal,3,Menu/booking link points to an old destination
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Buying Signal,4,Primary CTA is below the fold on mobile
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Buying Signal,5,Contact form fails or lacks confirmation
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Deliverable,1,Pre-change backup or rollback plan
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Deliverable,2,Repair or add up to three customer-action links
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Deliverable,3,One minor mobile layout correction
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Deliverable,4,Tests on two viewport sizes
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Deliverable,5,Before/after screenshots and link checklist
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Excluded / Boundary,1,"Malware cleanup, hosting migration, redesign, custom code exceeding two hours, payment/checkout repair, plugin-license purchases, or recovery without valid access."
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Revision Policy,1,One correction if the agreed action still fails
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Upsell,1,$149 mobile conversion tune-up or $49/month link monitoring
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Demo / Sample,1,Audit one public mobile site and create a one-page “3 customer-action issues” screenshot marked SAMPLE AUDIT. Do not alter the site or claim access.
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Tools,1,"Chrome DevTools mobile mode, link checker, screenshots, Git/GitHub where the site permits it, and the customer’s CMS. ChatGPT can help explain findings but should not be trusted to deploy unreviewed code."
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Search Term,1,Asheville restaurant menu
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Search Term,2,Asheville salon book now
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Search Term,3,Asheville contractor contact
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Search Term,4,Asheville tours reservations
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Search Term,5,Asheville photographer contact
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Proof,1,"A concise screenshot annotation: broken/current path, proposed path, and a test result. The defect itself is the proof."
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Alternatives,1,"DIY edit, current web developer, platform support, Fiverr freelancer, or doing nothing."
+IDEA-02,2,Same-Day Broken Website and CTA Repair,Payment Rationale,1,A $40 deposit is plausible when the defect is verified and the fix avoids lost inquiries.
+IDEA-03,3,AI-Assisted Promotional Content Pack,Buying Signal,1,Upcoming event listed but weak social promotion
+IDEA-03,3,AI-Assisted Promotional Content Pack,Buying Signal,2,Outdated last social post
+IDEA-03,3,AI-Assisted Promotional Content Pack,Buying Signal,3,New offer shown only on a flyer
+IDEA-03,3,AI-Assisted Promotional Content Pack,Buying Signal,4,Inconsistent captions/graphics
+IDEA-03,3,AI-Assisted Promotional Content Pack,Buying Signal,5,No email announcement for an upcoming promotion
+IDEA-03,3,AI-Assisted Promotional Content Pack,Deliverable,1,Three platform-ready social posts
+IDEA-03,3,AI-Assisted Promotional Content Pack,Deliverable,2,Three matching square graphics
+IDEA-03,3,AI-Assisted Promotional Content Pack,Deliverable,3,Three captions with clear calls to action
+IDEA-03,3,AI-Assisted Promotional Content Pack,Deliverable,4,One short customer email/announcement
+IDEA-03,3,AI-Assisted Promotional Content Pack,Deliverable,5,Fact-check and owner approval checklist
+IDEA-03,3,AI-Assisted Promotional Content Pack,Excluded / Boundary,1,"Posting to accounts, paid-ad management, video production, photography, influencer outreach, results guarantees, or use of unlicensed assets."
+IDEA-03,3,AI-Assisted Promotional Content Pack,Revision Policy,1,One consolidated revision round
+IDEA-03,3,AI-Assisted Promotional Content Pack,Upsell,1,"$149 version with 1:1, 9:16, and 1.91:1 exports or $199 monthly two-promotion pack"
+IDEA-03,3,AI-Assisted Promotional Content Pack,Demo / Sample,1,"Create one concept post and graphic for a currently public offer. Label it “Uncommissioned sample concept,” use only the business’s own public facts, and watermark the preview."
+IDEA-03,3,AI-Assisted Promotional Content Pack,Tools,1,"ChatGPT for draft variants, Canva Free for graphics, owner-supplied photos, and a spelling/link checklist. Do not upload confidential customer data into AI tools."
+IDEA-03,3,AI-Assisted Promotional Content Pack,Search Term,1,Asheville event this weekend business
+IDEA-03,3,AI-Assisted Promotional Content Pack,Search Term,2,Asheville restaurant special
+IDEA-03,3,AI-Assisted Promotional Content Pack,Search Term,3,Asheville food truck schedule
+IDEA-03,3,AI-Assisted Promotional Content Pack,Search Term,4,Asheville wellness workshop
+IDEA-03,3,AI-Assisted Promotional Content Pack,Search Term,5,Asheville grand opening
+IDEA-03,3,AI-Assisted Promotional Content Pack,Proof,1,"One personalized sample graphic plus two caption angles. Reveal enough to show judgment, not the full three-post package."
+IDEA-03,3,AI-Assisted Promotional Content Pack,Alternatives,1,"DIY Canva, AI-generated copy, staff member, Fiverr creator, or monthly agency."
+IDEA-03,3,AI-Assisted Promotional Content Pack,Payment Rationale,1,"A $50 deposit is realistic when the package supports an imminent, specific promotion."
+IDEA-04,4,Google Business Profile Cleanup Session,Buying Signal,1,Incorrect hours or phone
+IDEA-04,4,Google Business Profile Cleanup Session,Buying Signal,2,Missing website/booking link
+IDEA-04,4,Google Business Profile Cleanup Session,Buying Signal,3,Generic or inaccurate primary category
+IDEA-04,4,Google Business Profile Cleanup Session,Buying Signal,4,Few or outdated photos
+IDEA-04,4,Google Business Profile Cleanup Session,Buying Signal,5,Reopened/relocated business with stale details
+IDEA-04,4,Google Business Profile Cleanup Session,Deliverable,1,Pre-session public profile audit
+IDEA-04,4,Google Business Profile Cleanup Session,Deliverable,2,60-minute screen-share cleanup
+IDEA-04,4,Google Business Profile Cleanup Session,Deliverable,3,Owner-approved field checklist
+IDEA-04,4,Google Business Profile Cleanup Session,Deliverable,4,Draft description and services list based on supplied facts
+IDEA-04,4,Google Business Profile Cleanup Session,Deliverable,5,Before/after record and 30-day maintenance checklist
+IDEA-04,4,Google Business Profile Cleanup Session,Excluded / Boundary,1,"Verification guarantees, reinstatement/suspension appeals, ranking guarantees, review generation, citations, ads, or edits without owner authorization."
+IDEA-04,4,Google Business Profile Cleanup Session,Revision Policy,1,One follow-up correction list within seven days
+IDEA-04,4,Google Business Profile Cleanup Session,Upsell,1,$49 quarterly accuracy check or $149 combined cleanup plus 10 review responses
+IDEA-04,4,Google Business Profile Cleanup Session,Demo / Sample,1,Make a one-page public-information audit with screenshots of two clear accuracy/completeness gaps. Label it “Public profile sample audit; no account access used.”
+IDEA-04,4,Google Business Profile Cleanup Session,Tools,1,"Google Search/Maps, Google’s official Business Profile editor during owner screen share, a checklist, and ChatGPT only for draft language that the owner fact-checks."
+IDEA-04,4,Google Business Profile Cleanup Session,Search Term,1,site:google.com/maps Asheville business wrong hours
+IDEA-04,4,Google Business Profile Cleanup Session,Search Term,2,Asheville reopened restaurant
+IDEA-04,4,Google Business Profile Cleanup Session,Search Term,3,Asheville new salon
+IDEA-04,4,Google Business Profile Cleanup Session,Search Term,4,Asheville contractor Google profile
+IDEA-04,4,Google Business Profile Cleanup Session,Search Term,5,Asheville tour operator
+IDEA-04,4,Google Business Profile Cleanup Session,Proof,1,A public audit showing exact fields to verify; never imply the profile is unclaimed or claim ranking impact without evidence.
+IDEA-04,4,Google Business Profile Cleanup Session,Alternatives,1,"DIY profile editing, Google support, local SEO agency, Fiverr optimization, or monthly listing software."
+IDEA-04,4,Google Business Profile Cleanup Session,Payment Rationale,1,The $99 session is credible when the prospect can see multiple factual errors and owns a verified profile.
+IDEA-05,5,Customer Review-Response Package,Buying Signal,1,Eight or more unanswered reviews
+IDEA-05,5,Customer Review-Response Package,Buying Signal,2,Recent negative review with no reply
+IDEA-05,5,Customer Review-Response Package,Buying Signal,3,Repeated copy-paste responses
+IDEA-05,5,Customer Review-Response Package,Buying Signal,4,Reviews mention unresolved operational issues
+IDEA-05,5,Customer Review-Response Package,Buying Signal,5,Hospitality/tourism business entering busy period
+IDEA-05,5,Customer Review-Response Package,Deliverable,1,Responses to 12 recent reviews at $75
+IDEA-05,5,Customer Review-Response Package,Deliverable,2,"Mix of positive, neutral, and negative responses"
+IDEA-05,5,Customer Review-Response Package,Deliverable,3,One-page brand voice guide
+IDEA-05,5,Customer Review-Response Package,Deliverable,4,Five reusable future-response templates
+IDEA-05,5,Customer Review-Response Package,Deliverable,5,Owner approval sheet; posting optional only through owner-controlled access
+IDEA-05,5,Customer Review-Response Package,Excluded / Boundary,1,"Fake reviews, review removal promises, legal/medical admissions, crisis PR, guaranteed ranking changes, or publishing without written approval."
+IDEA-05,5,Customer Review-Response Package,Revision Policy,1,One consolidated revision round
+IDEA-05,5,Customer Review-Response Package,Upsell,1,$99 for up to 20 replies or $149/month for monitoring plus 20 approved drafts
+IDEA-05,5,Customer Review-Response Package,Demo / Sample,1,Draft two responses—one positive and one negative—from public reviews. Redact reviewer surnames in the sample and label it “Uncommissioned response sample; not posted.”
+IDEA-05,5,Customer Review-Response Package,Tools,1,"Public review platforms, spreadsheet, ChatGPT for controlled first drafts, and human editing. Do not feed private complaint details, health information, or customer contact data into AI."
+IDEA-05,5,Customer Review-Response Package,Search Term,1,Asheville restaurant reviews
+IDEA-05,5,Customer Review-Response Package,Search Term,2,Asheville hotel Google reviews
+IDEA-05,5,Customer Review-Response Package,Search Term,3,Asheville spa reviews
+IDEA-05,5,Customer Review-Response Package,Search Term,4,Asheville tour reviews
+IDEA-05,5,Customer Review-Response Package,Search Term,5,Asheville contractor reviews
+IDEA-05,5,Customer Review-Response Package,Proof,1,Two genuinely personalized sample responses and a tone mini-guide; no fake reviews or fabricated client outcomes.
+IDEA-05,5,Customer Review-Response Package,Alternatives,1,"Owner replies, generic AI response, platform tools, reputation software, or monthly agency."
+IDEA-05,5,Customer Review-Response Package,Payment Rationale,1,A $40-$50 deposit is credible when the backlog is public and the tone risk is clear.
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Buying Signal,1,“DM to book” is the only CTA
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Buying Signal,2,Contact page has no form or a broken form
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Buying Signal,3,Owner asks repeated qualifying questions
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Buying Signal,4,No submission log
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Buying Signal,5,No immediate confirmation after inquiry
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Deliverable,1,Mobile-friendly form with up to seven fields
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Deliverable,2,Email notification to owner
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Deliverable,3,Google Sheet or equivalent response log
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Deliverable,4,Immediate on-screen/email confirmation
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Deliverable,5,One follow-up template
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Deliverable,6,End-to-end test and one-page handoff
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Excluded / Boundary,1,"HIPAA/medical intake, payment card collection, complex CRM migration, SMS charges, custom app, multi-step qualification, legal intake, or ongoing monitoring."
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Revision Policy,1,One consolidated revision round
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Upsell,1,$49 embed on existing site or $99 reminder/lead-routing automation
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Demo / Sample,1,Build a generic contractor or photographer demonstration form with fake sample submissions and a matching sample Sheet. Label all records “DEMO DATA.”
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Tools,1,"Google Forms + Sheets, Jotform Starter where appropriate, Gmail notifications, the customer’s site embed, and ChatGPT for confirmation/follow-up drafts. Android Studio is irrelevant."
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Search Term,1,Asheville contractor free estimate Facebook
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Search Term,2,Asheville photographer DM to book
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Search Term,3,Asheville event vendor contact
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Search Term,4,Asheville tour inquiry
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Search Term,5,Asheville consultant contact form
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Proof,1,"A 45-second screen recording: mobile submission, confirmation, owner notification, and new spreadsheet row."
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Alternatives,1,"Phone/DMs, Google Forms DIY, Jotform/Typeform, CRM form, website builder form, or agency."
+IDEA-06,6,Simple Lead-Capture Form and Follow-Up System,Payment Rationale,1,A $75 deposit is reasonable when a missed lead could be worth more than the setup price.
+IDEA-07,7,Basic Business Automation Setup,Buying Signal,1,Same data copied between email and Sheets
+IDEA-07,7,Basic Business Automation Setup,Buying Signal,2,Owner manually sends the same confirmation
+IDEA-07,7,Basic Business Automation Setup,Buying Signal,3,New inquiries are checked in multiple places
+IDEA-07,7,Basic Business Automation Setup,Buying Signal,4,Appointments lack reminders
+IDEA-07,7,Basic Business Automation Setup,Buying Signal,5,Repeated missed or delayed follow-up
+IDEA-07,7,Basic Business Automation Setup,Deliverable,1,Workflow map for one trigger and up to two actions
+IDEA-07,7,Basic Business Automation Setup,Deliverable,2,Setup in customer-owned Zapier/Make/native tools
+IDEA-07,7,Basic Business Automation Setup,Deliverable,3,Five test runs with safe sample data
+IDEA-07,7,Basic Business Automation Setup,Deliverable,4,Failure notification and manual fallback
+IDEA-07,7,Basic Business Automation Setup,Deliverable,5,One-page handoff plus 7-day defect support
+IDEA-07,7,Basic Business Automation Setup,Excluded / Boundary,1,"Custom application, unsupported API development, scraping, AI agent autonomy, regulated data, more than two connected apps, ongoing subscription fees, or business-process redesign."
+IDEA-07,7,Basic Business Automation Setup,Revision Policy,1,One scope-consistent correction plus 7-day defect support
+IDEA-07,7,Basic Business Automation Setup,Upsell,1,$99 second workflow or $49/month monitoring and minor maintenance
+IDEA-07,7,Basic Business Automation Setup,Demo / Sample,1,Build a demonstration using a dummy form submission that adds a row to a demo Sheet and sends a demo owner alert. Use fake names and mark every record DEMO.
+IDEA-07,7,Basic Business Automation Setup,Tools,1,"Zapier Free for a simple two-step flow, Make Free for a small visual scenario, native Google tools when they are sufficient, and GitHub for versioned documentation. Android Studio is irrelevant."
+IDEA-07,7,Basic Business Automation Setup,Search Term,1,Asheville contractor office manager
+IDEA-07,7,Basic Business Automation Setup,Search Term,2,Asheville photographer inquiry form
+IDEA-07,7,Basic Business Automation Setup,Search Term,3,Asheville appointment reminders
+IDEA-07,7,Basic Business Automation Setup,Search Term,4,Asheville small business Zapier
+IDEA-07,7,Basic Business Automation Setup,Search Term,5,Asheville event vendor booking
+IDEA-07,7,Basic Business Automation Setup,Proof,1,"A 60-second recording showing the manual “before,” automated trigger/actions, log, and failure alert. Never claim hours saved until measured."
+IDEA-07,7,Basic Business Automation Setup,Alternatives,1,"Continue manually, use native integrations, Zapier/Make DIY, hire a virtual assistant, or commission custom software."
+IDEA-07,7,Basic Business Automation Setup,Payment Rationale,1,A $75 deposit is plausible when the owner can quantify repeated work and the workflow uses existing supported integrations.

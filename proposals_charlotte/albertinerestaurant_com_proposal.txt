@@ -1,0 +1,56 @@
+======================================================================
+  G3 PROPOSAL PACKET — FOR TOM GRONEK APPROVAL
+======================================================================
+Client Business: albertinerestaurant.com
+Audit Score: 77/100 (Grade B)
+Recommended Service: One-Offer Promo Sprint
+----------------------------------------------------------------------
+Proposed Scope of Work (48-Hour Delivery):
+  • Phone # visible (1001635932) but not tap-to-call on mobile
+  • No H1 heading — hurts Google ranking for local searches
+  • Only 0% of images have alt text (0/1)
+  • No Schema.org structured data — missing from Google rich results/knowledge panel
+
+Investment & Payment Options:
+- Total Service Fee: $99.00 USD
+
+Option 1: Pay Full Amount Upfront
+  👉 $99 Full Payment Link: https://buy.stripe.com/00wbJ0gvf5b47X97Vd7g408?client_reference_id=albertinerestaurant.com
+
+Option 2: 50% Deposit Now, Balance on Completion
+  👉 $50 Deposit Link: https://buy.stripe.com/8x28wObaVdHA7X9cbt7g409?client_reference_id=albertinerestaurant.com
+  (Remaining $49 will be billed via https://buy.stripe.com/dRmfZgbaV9rkb9l5N57g40a)
+
+- Money-Back Guarantee: 100% Satisfaction Guarantee
+
+----------------------------------------------------------------------
+PROPOSED EMAIL RESPONSE PAYLOAD:
+
+Subject: Re: 48-Hour promotional content pack for albertinerestaurant.com
+
+Hi there,
+
+Thanks for reaching out! Here is the 1-page visual audit summary for albertinerestaurant.com:
+Audit Grade: B (77/100)
+
+Key Optimizations We Will Fix:
+  • Phone # visible (1001635932) but not tap-to-call on mobile
+  • No H1 heading — hurts Google ranking for local searches
+  • Only 0% of images have alt text (0/1)
+  • No Schema.org structured data — missing from Google rich results/knowledge panel
+
+We complete this promotional content pack within 48 hours for a flat $99 investment. We offer a 100% satisfaction guarantee.
+
+You can lock in your 48-hour slot using one of the payment options below:
+Option 1: $50 Deposit to Start, $49 upon completion
+👉 https://buy.stripe.com/8x28wObaVdHA7X9cbt7g409?client_reference_id=albertinerestaurant.com
+
+Option 2: $99 Paid in Full
+👉 https://buy.stripe.com/00wbJ0gvf5b47X97Vd7g408?client_reference_id=albertinerestaurant.com
+
+Once the initial payment is received, we begin work immediately and deliver your update within 48 hours.
+
+Best regards,
+Tom Gronek
+Asheville AI Business Solutions
+======================================================================

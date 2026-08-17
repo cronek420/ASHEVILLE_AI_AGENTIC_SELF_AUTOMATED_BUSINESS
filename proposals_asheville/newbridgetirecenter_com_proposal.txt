@@ -1,0 +1,54 @@
+======================================================================
+  G3 PROPOSAL PACKET — FOR TOM GRONEK APPROVAL
+======================================================================
+Client Business: newbridgetirecenter.com
+Audit Score: 77/100 (Grade B)
+Recommended Service: 24-Hour Mobile Booking-Page Rescue
+----------------------------------------------------------------------
+Proposed Scope of Work (48-Hour Delivery):
+  • No mobile viewport tag — site likely broken on phones
+  • Missing Open Graph tags: og:title, og:description, og:image — links shared on Facebook/social look broken
+  • No favicon — browser tab shows generic icon
+
+Investment & Payment Options:
+- Total Service Fee: $149.00 USD
+
+Option 1: Pay Full Amount Upfront
+  👉 $149 Full Payment Link: https://buy.stripe.com/8x25kC92N1YSfpBejB7g405?client_reference_id=newbridgetirecenter.com
+
+Option 2: 50% Deposit Now, Balance on Completion
+  👉 $75 Deposit Link: https://buy.stripe.com/fZu8wOgvf5b40uHgrJ7g406?client_reference_id=newbridgetirecenter.com
+  (Remaining $74 will be billed via https://buy.stripe.com/cNi6oG2EpeLE2CPfnF7g407)
+
+- Money-Back Guarantee: 100% Satisfaction Guarantee
+
+----------------------------------------------------------------------
+PROPOSED EMAIL RESPONSE PAYLOAD:
+
+Subject: Re: 48-Hour mobile booking page rescue for newbridgetirecenter.com
+
+Hi there,
+
+Thanks for reaching out! Here is the 1-page visual audit summary for newbridgetirecenter.com:
+Audit Grade: B (77/100)
+
+Key Optimizations We Will Fix:
+  • No mobile viewport tag — site likely broken on phones
+  • Missing Open Graph tags: og:title, og:description, og:image — links shared on Facebook/social look broken
+  • No favicon — browser tab shows generic icon
+
+We complete this mobile booking page rescue within 48 hours for a flat $149 investment. We offer a 100% satisfaction guarantee.
+
+You can lock in your 48-hour slot using one of the payment options below:
+Option 1: $75 Deposit to Start, $74 upon completion
+👉 https://buy.stripe.com/fZu8wOgvf5b40uHgrJ7g406?client_reference_id=newbridgetirecenter.com
+
+Option 2: $149 Paid in Full
+👉 https://buy.stripe.com/8x25kC92N1YSfpBejB7g405?client_reference_id=newbridgetirecenter.com
+
+Once the initial payment is received, we begin work immediately and deliver your update within 48 hours.
+
+Best regards,
+Tom Gronek
+Asheville AI Business Solutions
+======================================================================

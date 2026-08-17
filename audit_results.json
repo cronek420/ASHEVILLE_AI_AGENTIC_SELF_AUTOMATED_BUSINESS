@@ -1,0 +1,1394 @@
+[
+  {
+    "domain": "wardph.com",
+    "url": "https://www.wardph.com/",
+    "title": "Ward Plumbing, Heating, and Air - Serving WNC Since 1977",
+    "status": "AUDITED",
+    "score": 85,
+    "grade": "B",
+    "load_time_ms": 1841,
+    "issues": [
+      "Moderate load: 1841ms (target < 1500ms)",
+      "No H1 heading \u2014 hurts Google ranking for local searches",
+      "Only 0% of images have alt text (0/4)"
+    ],
+    "opportunities": [
+      "Image & Asset Optimization",
+      "SEO Heading Structure",
+      "Accessibility & Image SEO"
+    ],
+    "findings": [
+      {
+        "check": "HTTPS/SSL",
+        "result": "PASS",
+        "detail": "SSL active"
+      },
+      {
+        "check": "Load Speed",
+        "result": "WARN",
+        "detail": "1841ms"
+      },
+      {
+        "check": "Mobile Viewport",
+        "result": "PASS",
+        "detail": "Viewport tag present"
+      },
+      {
+        "check": "Tap-to-Call",
+        "result": "PASS",
+        "detail": "1 tel: link(s)"
+      },
+      {
+        "check": "Copyright Year",
+        "result": "INFO",
+        "detail": "No copyright notice found"
+      },
+      {
+        "check": "Meta Description",
+        "result": "PASS",
+        "detail": "Meta description present"
+      },
+      {
+        "check": "Open Graph Tags",
+        "result": "PASS",
+        "detail": "All OG tags present"
+      },
+      {
+        "check": "Favicon",
+        "result": "PASS",
+        "detail": "Favicon present"
+      },
+      {
+        "check": "H1 Heading",
+        "result": "FAIL",
+        "detail": "No <h1> tag found"
+      },
+      {
+        "check": "Image Alt Text",
+        "result": "FAIL",
+        "detail": "0% coverage"
+      },
+      {
+        "check": "Schema.org",
+        "result": "PASS",
+        "detail": "Structured data present"
+      },
+      {
+        "check": "Broken Links",
+        "result": "PASS",
+        "detail": "Tested 0 links, all OK"
+      },
+      {
+        "check": "Page Title",
+        "result": "PASS",
+        "detail": "'Ward Plumbing, Heating, and Air - Serving WNC Since 1977'"
+      }
+    ],
+    "recommended_product": "IDEA-05",
+    "contacts": {
+      "emails": [],
+      "phones": [
+        "3746849669",
+        "0123456789",
+        "833-682-9273",
+        "8575805322",
+        "5195989642",
+        "2226315730",
+        "4822303921"
+      ],
+      "tel_links": [
+        "tel:+1-828-785-4916"
+      ],
+      "mailto_links": []
+    },
+    "stats": {
+      "total_links": 0,
+      "tel_links": 1,
+      "images": 4,
+      "images_with_alt": 0,
+      "social_links": 0
+    }
+  },
+  {
+    "domain": "whiteandwilliams.com",
+    "url": "https://www.whiteandwilliams.com/",
+    "title": "",
+    "status": "AUDITED",
+    "score": 41,
+    "grade": "D",
+    "load_time_ms": 1058,
+    "issues": [
+      "No mobile viewport tag \u2014 site likely broken on phones",
+      "No phone number found on homepage",
+      "Missing meta description \u2014 Google shows random text in search results",
+      "Missing Open Graph tags: og:title, og:description, og:image \u2014 links shared on Facebook/social look broken",
+      "No favicon \u2014 browser tab shows generic icon",
+      "No H1 heading \u2014 hurts Google ranking for local searches",
+      "No Schema.org structured data \u2014 missing from Google rich results/knowledge panel",
+      "No page title \u2014 Google search listing will have no headline"
+    ],
+    "opportunities": [
+      "Mobile Responsive Design",
+      "Add Visible Phone Number & Call CTA",
+      "SEO Meta Description & Title Optimization",
+      "Social Sharing Preview Setup",
+      "Brand Identity (Favicon)",
+      "SEO Heading Structure",
+      "Local Business Schema Markup",
+      "SEO Title Tag"
+    ],
+    "findings": [
+      {
+        "check": "HTTPS/SSL",
+        "result": "PASS",
+        "detail": "SSL active"
+      },
+      {
+        "check": "Load Speed",
+        "result": "PASS",
+        "detail": "1058ms"
+      },
+      {
+        "check": "Mobile Viewport",
+        "result": "FAIL",
+        "detail": "Missing <meta viewport>"
+      },
+      {
+        "check": "Tap-to-Call",
+        "result": "FAIL",
+        "detail": "No phone number on page"
+      },
+      {
+        "check": "Copyright Year",
+        "result": "INFO",
+        "detail": "No copyright notice found"
+      },
+      {
+        "check": "Meta Description",
+        "result": "FAIL",
+        "detail": "No <meta name='description'>"
+      },
+      {
+        "check": "Open Graph Tags",
+        "result": "FAIL",
+        "detail": "Missing: og:title, og:description, og:image"
+      },
+      {
+        "check": "Favicon",
+        "result": "FAIL",
+        "detail": "No <link rel='icon'>"
+      },
+      {
+        "check": "H1 Heading",
+        "result": "FAIL",
+        "detail": "No <h1> tag found"
+      },
+      {
+        "check": "Schema.org",
+        "result": "FAIL",
+        "detail": "No JSON-LD structured data"
+      },
+      {
+        "check": "Broken Links",
+        "result": "PASS",
+        "detail": "Tested 0 links, all OK"
+      },
+      {
+        "check": "Page Title",
+        "result": "FAIL",
+        "detail": "Empty <title>"
+      }
+    ],
+    "recommended_product": "IDEA-01",
+    "contacts": {
+      "emails": [],
+      "phones": [],
+      "tel_links": [],
+      "mailto_links": []
+    },
+    "stats": {
+      "total_links": 0,
+      "tel_links": 0,
+      "images": 0,
+      "images_with_alt": 0,
+      "social_links": 0
+    }
+  },
+  {
+    "domain": "ashevilleelectrician.com",
+    "url": "https://powerplusservice.com/",
+    "title": "PowerPlus...Your Asheville Electrician - Cost-Effective Warrantied Services",
+    "status": "AUDITED",
+    "score": 83,
+    "grade": "B",
+    "load_time_ms": 2261,
+    "issues": [
+      "Moderate load: 2261ms (target < 1500ms)",
+      "Outdated copyright: \u00a9 2023 (now 2026)",
+      "Missing Open Graph tags: og:image \u2014 links shared on Facebook/social look broken"
+    ],
+    "opportunities": [
+      "Image & Asset Optimization",
+      "Website Content Refresh",
+      "Social Sharing Preview Setup"
+    ],
+    "findings": [
+      {
+        "check": "HTTPS/SSL",
+        "result": "PASS",
+        "detail": "SSL active"
+      },
+      {
+        "check": "Load Speed",
+        "result": "WARN",
+        "detail": "2261ms"
+      },
+      {
+        "check": "Mobile Viewport",
+        "result": "PASS",
+        "detail": "Viewport tag present"
+      },
+      {
+        "check": "Tap-to-Call",
+        "result": "PASS",
+        "detail": "2 tel: link(s)"
+      },
+      {
+        "check": "Copyright Year",
+        "result": "FAIL",
+        "detail": "\u00a9 2023"
+      },
+      {
+        "check": "Meta Description",
+        "result": "PASS",
+        "detail": "Meta description present"
+      },
+      {
+        "check": "Open Graph Tags",
+        "result": "FAIL",
+        "detail": "Missing: og:image"
+      },
+      {
+        "check": "Favicon",
+        "result": "PASS",
+        "detail": "Favicon present"
+      },
+      {
+        "check": "H1 Heading",
+        "result": "PASS",
+        "detail": "H1 tag present"
+      },
+      {
+        "check": "Image Alt Text",
+        "result": "PASS",
+        "detail": "50% coverage"
+      },
+      {
+        "check": "Schema.org",
+        "result": "PASS",
+        "detail": "Structured data present"
+      },
+      {
+        "check": "Broken Links",
+        "result": "PASS",
+        "detail": "Tested 0 links, all OK"
+      },
+      {
+        "check": "Page Title",
+        "result": "WARN",
+        "detail": "'PowerPlus...Your Asheville Electrician - Cost-Effe...' (75 chars, ideal <60)"
+      }
+    ],
+    "recommended_product": "IDEA-05",
+    "contacts": {
+      "emails": [],
+      "phones": [
+        "(999) 999-9999",
+        "828-202-1953",
+        "(828) 252-2581"
+      ],
+      "tel_links": [
+        "tel:8282021953",
+        "tel:8282021953"
+      ],
+      "mailto_links": []
+    },
+    "stats": {
+      "total_links": 58,
+      "tel_links": 2,
+      "images": 8,
+      "images_with_alt": 4,
+      "social_links": 0
+    }
+  },
+  {
+    "domain": "ashevilletreeservice.com",
+    "url": "https://www.ashevillelandscapingllc.com/tree-service",
+    "title": "Asheville Tree Service | Tree Removal and Care | Asheville NC",
+    "status": "AUDITED",
+    "score": 90,
+    "grade": "A",
+    "load_time_ms": 904,
+    "issues": [
+      "Missing Open Graph tags: og:image \u2014 links shared on Facebook/social look broken",
+      "No Schema.org structured data \u2014 missing from Google rich results/knowledge panel"
+    ],
+    "opportunities": [
+      "Social Sharing Preview Setup",
+      "Local Business Schema Markup"
+    ],
+    "findings": [
+      {
+        "check": "HTTPS/SSL",
+        "result": "PASS",
+        "detail": "SSL active"
+      },
+      {
+        "check": "Load Speed",
+        "result": "PASS",
+        "detail": "904ms"
+      },
+      {
+        "check": "Mobile Viewport",
+        "result": "PASS",
+        "detail": "Viewport tag present"
+      },
+      {
+        "check": "Tap-to-Call",
+        "result": "PASS",
+        "detail": "3 tel: link(s)"
+      },
+      {
+        "check": "Copyright Year",
+        "result": "INFO",
+        "detail": "No copyright notice found"
+      },
+      {
+        "check": "Meta Description",
+        "result": "PASS",
+        "detail": "Meta description present"
+      },
+      {
+        "check": "Open Graph Tags",
+        "result": "FAIL",
+        "detail": "Missing: og:image"
+      },
+      {
+        "check": "Favicon",
+        "result": "PASS",
+        "detail": "Favicon present"
+      },
+      {
+        "check": "H1 Heading",
+        "result": "PASS",
+        "detail": "H1 tag present"
+      },
+      {
+        "check": "Image Alt Text",
+        "result": "PASS",
+        "detail": "77% coverage"
+      },
+      {
+        "check": "Schema.org",
+        "result": "FAIL",
+        "detail": "No JSON-LD structured data"
+      },
+      {
+        "check": "Broken Links",
+        "result": "PASS",
+        "detail": "Tested 0 links, all OK"
+      },
+      {
+        "check": "Page Title",
+        "result": "PASS",
+        "detail": "'Asheville Tree Service | Tree Removal and Care | Asheville NC'"
+      }
+    ],
+    "recommended_product": "IDEA-05",
+    "contacts": {
+      "emails": [
+        "intl-segmenter@11.7.10",
+        "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+        "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+        "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+        "rspack@1.6.8"
+      ],
+      "phones": [
+        "1785818150",
+        "1581018750",
+        "3366343913",
+        "391-9791905",
+        "1785818149",
+        "1581018610",
+        "3099999427",
+        "2054936319",
+        "1581018320",
+        "2545352419",
+        "2482274222",
+        "9899997711",
+        "9638099326",
+        "9288338191",
+        "1581018405",
+        "9782294143",
+        "4025863901",
+        "1499933245",
+        "9999999999",
+        "0000999999",
+        "4534864378",
+        "2147483648",
+        "1581018491",
+        "9900000095",
+        "828-774-7207",
+        "1581016706",
+        "953651-7842",
+        "4399995803",
+        "1581018680",
+        "8287747207"
+      ],
+      "tel_links": [
+        "tel:828-7747207",
+        "tel:828-7747207",
+        "tel:828-7747207"
+      ],
+      "mailto_links": []
+    },
+    "stats": {
+      "total_links": 16,
+      "tel_links": 3,
+      "images": 9,
+      "images_with_alt": 7,
+      "social_links": 2
+    }
+  },
+  {
+    "domain": "bakerroofing.com",
+    "url": "https://bakerroofing.com",
+    "title": "Baker Roofing | Commercial Roofing Contractor",
+    "status": "AUDITED",
+    "score": 87,
+    "grade": "B",
+    "load_time_ms": 461,
+    "issues": [
+      "Phone # visible (8333381915) but not tap-to-call on mobile",
+      "Only 34% of images have alt text (20/58)"
+    ],
+    "opportunities": [
+      "1-Tap Call Button",
+      "Accessibility & Image SEO"
+    ],
+    "findings": [
+      {
+        "check": "HTTPS/SSL",
+        "result": "PASS",
+        "detail": "SSL active"
+      },
+      {
+        "check": "Load Speed",
+        "result": "PASS",
+        "detail": "461ms"
+      },
+      {
+        "check": "Mobile Viewport",
+        "result": "PASS",
+        "detail": "Viewport tag present"
+      },
+      {
+        "check": "Tap-to-Call",
+        "result": "FAIL",
+        "detail": "Phone 8333381915 not linked"
+      },
+      {
+        "check": "Copyright Year",
+        "result": "INFO",
+        "detail": "No copyright notice found"
+      },
+      {
+        "check": "Meta Description",
+        "result": "PASS",
+        "detail": "Meta description present"
+      },
+      {
+        "check": "Open Graph Tags",
+        "result": "PASS",
+        "detail": "All OG tags present"
+      },
+      {
+        "check": "Favicon",
+        "result": "PASS",
+        "detail": "Favicon present"
+      },
+      {
+        "check": "H1 Heading",
+        "result": "PASS",
+        "detail": "H1 tag present"
+      },
+      {
+        "check": "Image Alt Text",
+        "result": "FAIL",
+        "detail": "34% coverage"
+      },
+      {
+        "check": "Schema.org",
+        "result": "PASS",
+        "detail": "Structured data present"
+      },
+      {
+        "check": "Broken Links",
+        "result": "PASS",
+        "detail": "Tested 5 links, all OK"
+      },
+      {
+        "check": "Page Title",
+        "result": "PASS",
+        "detail": "'Baker Roofing | Commercial Roofing Contractor'"
+      }
+    ],
+    "recommended_product": "IDEA-05",
+    "contacts": {
+      "emails": [],
+      "phones": [
+        "8333381915",
+        "833-338-1915"
+      ],
+      "tel_links": [],
+      "mailto_links": []
+    },
+    "stats": {
+      "total_links": 120,
+      "tel_links": 0,
+      "images": 58,
+      "images_with_alt": 20,
+      "social_links": 3
+    }
+  },
+  {
+    "domain": "ashevillepressurewashing.com",
+    "url": "https://ashevillepressurewashing.com",
+    "title": "",
+    "status": "AUDITED",
+    "score": 41,
+    "grade": "D",
+    "load_time_ms": 420,
+    "issues": [
+      "No mobile viewport tag \u2014 site likely broken on phones",
+      "No phone number found on homepage",
+      "Missing meta description \u2014 Google shows random text in search results",
+      "Missing Open Graph tags: og:title, og:description, og:image \u2014 links shared on Facebook/social look broken",
+      "No favicon \u2014 browser tab shows generic icon",
+      "No H1 heading \u2014 hurts Google ranking for local searches",
+      "No Schema.org structured data \u2014 missing from Google rich results/knowledge panel",
+      "No page title \u2014 Google search listing will have no headline"
+    ],
+    "opportunities": [
+      "Mobile Responsive Design",
+      "Add Visible Phone Number & Call CTA",
+      "SEO Meta Description & Title Optimization",
+      "Social Sharing Preview Setup",
+      "Brand Identity (Favicon)",
+      "SEO Heading Structure",
+      "Local Business Schema Markup",
+      "SEO Title Tag"
+    ],
+    "findings": [
+      {
+        "check": "HTTPS/SSL",
+        "result": "PASS",
+        "detail": "SSL active"
+      },
+      {
+        "check": "Load Speed",
+        "result": "PASS",
+        "detail": "420ms"
+      },
+      {
+        "check": "Mobile Viewport",
+        "result": "FAIL",
+        "detail": "Missing <meta viewport>"
+      },
+      {
+        "check": "Tap-to-Call",
+        "result": "FAIL",
+        "detail": "No phone number on page"
+      },
+      {
+        "check": "Copyright Year",
+        "result": "INFO",
+        "detail": "No copyright notice found"
+      },
+      {
+        "check": "Meta Description",
+        "result": "FAIL",
+        "detail": "No <meta name='description'>"
+      },
+      {
+        "check": "Open Graph Tags",
+        "result": "FAIL",
+        "detail": "Missing: og:title, og:description, og:image"
+      },
+      {
+        "check": "Favicon",
+        "result": "FAIL",
+        "detail": "No <link rel='icon'>"
+      },
+      {
+        "check": "H1 Heading",
+        "result": "FAIL",
+        "detail": "No <h1> tag found"
+      },
+      {
+        "check": "Schema.org",
+        "result": "FAIL",
+        "detail": "No JSON-LD structured data"
+      },
+      {
+        "check": "Broken Links",
+        "result": "PASS",
+        "detail": "Tested 0 links, all OK"
+      },
+      {
+        "check": "Page Title",
+        "result": "FAIL",
+        "detail": "Empty <title>"
+      }
+    ],
+    "recommended_product": "IDEA-01",
+    "contacts": {
+      "emails": [],
+      "phones": [],
+      "tel_links": [],
+      "mailto_links": []
+    },
+    "stats": {
+      "total_links": 0,
+      "tel_links": 0,
+      "images": 0,
+      "images_with_alt": 0,
+      "social_links": 0
+    }
+  },
+  {
+    "domain": "ashevillelawncare.com",
+    "url": "https://ashevillelawncare.com",
+    "title": "",
+    "status": "AUDITED",
+    "score": 41,
+    "grade": "D",
+    "load_time_ms": 455,
+    "issues": [
+      "No mobile viewport tag \u2014 site likely broken on phones",
+      "No phone number found on homepage",
+      "Missing meta description \u2014 Google shows random text in search results",
+      "Missing Open Graph tags: og:title, og:description, og:image \u2014 links shared on Facebook/social look broken",
+      "No favicon \u2014 browser tab shows generic icon",
+      "No H1 heading \u2014 hurts Google ranking for local searches",
+      "No Schema.org structured data \u2014 missing from Google rich results/knowledge panel",
+      "No page title \u2014 Google search listing will have no headline"
+    ],
+    "opportunities": [
+      "Mobile Responsive Design",
+      "Add Visible Phone Number & Call CTA",
+      "SEO Meta Description & Title Optimization",
+      "Social Sharing Preview Setup",
+      "Brand Identity (Favicon)",
+      "SEO Heading Structure",
+      "Local Business Schema Markup",
+      "SEO Title Tag"
+    ],
+    "findings": [
+      {
+        "check": "HTTPS/SSL",
+        "result": "PASS",
+        "detail": "SSL active"
+      },
+      {
+        "check": "Load Speed",
+        "result": "PASS",
+        "detail": "455ms"
+      },
+      {
+        "check": "Mobile Viewport",
+        "result": "FAIL",
+        "detail": "Missing <meta viewport>"
+      },
+      {
+        "check": "Tap-to-Call",
+        "result": "FAIL",
+        "detail": "No phone number on page"
+      },
+      {
+        "check": "Copyright Year",
+        "result": "INFO",
+        "detail": "No copyright notice found"
+      },
+      {
+        "check": "Meta Description",
+        "result": "FAIL",
+        "detail": "No <meta name='description'>"
+      },
+      {
+        "check": "Open Graph Tags",
+        "result": "FAIL",
+        "detail": "Missing: og:title, og:description, og:image"
+      },
+      {
+        "check": "Favicon",
+        "result": "FAIL",
+        "detail": "No <link rel='icon'>"
+      },
+      {
+        "check": "H1 Heading",
+        "result": "FAIL",
+        "detail": "No <h1> tag found"
+      },
+      {
+        "check": "Schema.org",
+        "result": "FAIL",
+        "detail": "No JSON-LD structured data"
+      },
+      {
+        "check": "Broken Links",
+        "result": "PASS",
+        "detail": "Tested 0 links, all OK"
+      },
+      {
+        "check": "Page Title",
+        "result": "FAIL",
+        "detail": "Empty <title>"
+      }
+    ],
+    "recommended_product": "IDEA-01",
+    "contacts": {
+      "emails": [],
+      "phones": [],
+      "tel_links": [],
+      "mailto_links": []
+    },
+    "stats": {
+      "total_links": 0,
+      "tel_links": 0,
+      "images": 0,
+      "images_with_alt": 0,
+      "social_links": 0
+    }
+  },
+  {
+    "domain": "ashevillepestcontrol.com",
+    "url": "https://ashevillepestcontrol.com",
+    "title": "ashevillepestcontrol.com for sale",
+    "status": "AUDITED",
+    "score": 64,
+    "grade": "C",
+    "load_time_ms": 470,
+    "issues": [
+      "No phone number found on homepage",
+      "Missing meta description \u2014 Google shows random text in search results",
+      "Missing Open Graph tags: og:title, og:description, og:image \u2014 links shared on Facebook/social look broken",
+      "No favicon \u2014 browser tab shows generic icon",
+      "No H1 heading \u2014 hurts Google ranking for local searches",
+      "No Schema.org structured data \u2014 missing from Google rich results/knowledge panel"
+    ],
+    "opportunities": [
+      "Add Visible Phone Number & Call CTA",
+      "SEO Meta Description & Title Optimization",
+      "Social Sharing Preview Setup",
+      "Brand Identity (Favicon)",
+      "SEO Heading Structure",
+      "Local Business Schema Markup"
+    ],
+    "findings": [
+      {
+        "check": "HTTPS/SSL",
+        "result": "PASS",
+        "detail": "SSL active"
+      },
+      {
+        "check": "Load Speed",
+        "result": "PASS",
+        "detail": "470ms"
+      },
+      {
+        "check": "Mobile Viewport",
+        "result": "PASS",
+        "detail": "Viewport tag present"
+      },
+      {
+        "check": "Tap-to-Call",
+        "result": "FAIL",
+        "detail": "No phone number on page"
+      },
+      {
+        "check": "Copyright Year",
+        "result": "INFO",
+        "detail": "No copyright notice found"
+      },
+      {
+        "check": "Meta Description",
+        "result": "FAIL",
+        "detail": "No <meta name='description'>"
+      },
+      {
+        "check": "Open Graph Tags",
+        "result": "FAIL",
+        "detail": "Missing: og:title, og:description, og:image"
+      },
+      {
+        "check": "Favicon",
+        "result": "FAIL",
+        "detail": "No <link rel='icon'>"
+      },
+      {
+        "check": "H1 Heading",
+        "result": "FAIL",
+        "detail": "No <h1> tag found"
+      },
+      {
+        "check": "Schema.org",
+        "result": "FAIL",
+        "detail": "No JSON-LD structured data"
+      },
+      {
+        "check": "Broken Links",
+        "result": "PASS",
+        "detail": "Tested 0 links, all OK"
+      },
+      {
+        "check": "Page Title",
+        "result": "PASS",
+        "detail": "'ashevillepestcontrol.com for sale'"
+      }
+    ],
+    "recommended_product": "IDEA-02",
+    "contacts": {
+      "emails": [],
+      "phones": [],
+      "tel_links": [],
+      "mailto_links": []
+    },
+    "stats": {
+      "total_links": 0,
+      "tel_links": 0,
+      "images": 0,
+      "images_with_alt": 0,
+      "social_links": 0
+    }
+  },
+  {
+    "domain": "ashevillefamilydentistry.com",
+    "url": "https://www.ashevillefamilydentistry.com/",
+    "title": "Asheville Family Dentistry | General & Cosmetic Dentist Asheville, NC",
+    "status": "AUDITED",
+    "score": 79,
+    "grade": "B",
+    "load_time_ms": 957,
+    "issues": [
+      "Missing Open Graph tags: og:image \u2014 links shared on Facebook/social look broken",
+      "No favicon \u2014 browser tab shows generic icon",
+      "No H1 heading \u2014 hurts Google ranking for local searches",
+      "5 broken link(s): /, /about, /testimonials"
+    ],
+    "opportunities": [
+      "Social Sharing Preview Setup",
+      "Brand Identity (Favicon)",
+      "SEO Heading Structure",
+      "Broken Link & Navigation Repair"
+    ],
+    "findings": [
+      {
+        "check": "HTTPS/SSL",
+        "result": "PASS",
+        "detail": "SSL active"
+      },
+      {
+        "check": "Load Speed",
+        "result": "PASS",
+        "detail": "957ms"
+      },
+      {
+        "check": "Mobile Viewport",
+        "result": "PASS",
+        "detail": "Viewport tag present"
+      },
+      {
+        "check": "Tap-to-Call",
+        "result": "PASS",
+        "detail": "3 tel: link(s)"
+      },
+      {
+        "check": "Copyright Year",
+        "result": "PASS",
+        "detail": "\u00a9 2026"
+      },
+      {
+        "check": "Meta Description",
+        "result": "PASS",
+        "detail": "Meta description present"
+      },
+      {
+        "check": "Open Graph Tags",
+        "result": "FAIL",
+        "detail": "Missing: og:image"
+      },
+      {
+        "check": "Favicon",
+        "result": "FAIL",
+        "detail": "No <link rel='icon'>"
+      },
+      {
+        "check": "H1 Heading",
+        "result": "FAIL",
+        "detail": "No <h1> tag found"
+      },
+      {
+        "check": "Image Alt Text",
+        "result": "PASS",
+        "detail": "72% coverage"
+      },
+      {
+        "check": "Schema.org",
+        "result": "PASS",
+        "detail": "Structured data present"
+      },
+      {
+        "check": "Broken Links",
+        "result": "FAIL",
+        "detail": "5 broken"
+      },
+      {
+        "check": "Page Title",
+        "result": "PASS",
+        "detail": "'Asheville Family Dentistry | General & Cosmetic Dentist Asheville, NC'"
+      }
+    ],
+    "recommended_product": "IDEA-02",
+    "contacts": {
+      "emails": [
+        "sabrina@ashevillefamilydentistry.com"
+      ],
+      "phones": [
+        "5454379999",
+        "5981440000",
+        "(828) 670-9394",
+        "(828) 490-4359",
+        "(828) 299-4455"
+      ],
+      "tel_links": [
+        "tel:(828) 299-4455",
+        "tel:(828) 670-9394",
+        "tel:(828) 490-4359"
+      ],
+      "mailto_links": []
+    },
+    "stats": {
+      "total_links": 67,
+      "tel_links": 3,
+      "images": 11,
+      "images_with_alt": 8,
+      "social_links": 5
+    }
+  },
+  {
+    "domain": "wncsoftwash.com",
+    "url": "https://wncsoftwash.com",
+    "title": "Pressure Washing Asheville NC |  Roof Cleaning Asheville | WNC Softwash LLC",
+    "status": "AUDITED",
+    "score": 85,
+    "grade": "B",
+    "load_time_ms": 1683,
+    "issues": [
+      "Moderate load: 1683ms (target < 1500ms)",
+      "Missing meta description \u2014 Google shows random text in search results"
+    ],
+    "opportunities": [
+      "Image & Asset Optimization",
+      "SEO Meta Description & Title Optimization"
+    ],
+    "findings": [
+      {
+        "check": "HTTPS/SSL",
+        "result": "PASS",
+        "detail": "SSL active"
+      },
+      {
+        "check": "Load Speed",
+        "result": "WARN",
+        "detail": "1683ms"
+      },
+      {
+        "check": "Mobile Viewport",
+        "result": "PASS",
+        "detail": "Viewport tag present"
+      },
+      {
+        "check": "Tap-to-Call",
+        "result": "PASS",
+        "detail": "2 tel: link(s)"
+      },
+      {
+        "check": "Copyright Year",
+        "result": "INFO",
+        "detail": "No copyright notice found"
+      },
+      {
+        "check": "Meta Description",
+        "result": "FAIL",
+        "detail": "No <meta name='description'>"
+      },
+      {
+        "check": "Open Graph Tags",
+        "result": "PASS",
+        "detail": "All OG tags present"
+      },
+      {
+        "check": "Favicon",
+        "result": "PASS",
+        "detail": "Favicon present"
+      },
+      {
+        "check": "H1 Heading",
+        "result": "PASS",
+        "detail": "H1 tag present"
+      },
+      {
+        "check": "Image Alt Text",
+        "result": "PASS",
+        "detail": "73% coverage"
+      },
+      {
+        "check": "Schema.org",
+        "result": "PASS",
+        "detail": "Structured data present"
+      },
+      {
+        "check": "Broken Links",
+        "result": "PASS",
+        "detail": "Tested 5 links, all OK"
+      },
+      {
+        "check": "Page Title",
+        "result": "WARN",
+        "detail": "'Pressure Washing Asheville NC |  Roof Cleaning Ash...' (75 chars, ideal <60)"
+      }
+    ],
+    "recommended_product": "IDEA-05",
+    "contacts": {
+      "emails": [],
+      "phones": [
+        "6363950822",
+        "1079014993",
+        "9999995559",
+        "7383830547",
+        "3327636718",
+        "6999999999",
+        "828-712-4672"
+      ],
+      "tel_links": [
+        "tel:828-712-4672",
+        "tel:8287124672"
+      ],
+      "mailto_links": []
+    },
+    "stats": {
+      "total_links": 77,
+      "tel_links": 2,
+      "images": 34,
+      "images_with_alt": 25,
+      "social_links": 2
+    }
+  },
+  {
+    "domain": "mostlyfrenchauto.com",
+    "url": "https://mostlyfrenchauto.com",
+    "status": "UNREACHABLE",
+    "score": 0,
+    "issues": [
+      "Site unreachable: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ],
+    "opportunities": [
+      "Website may be down or misconfigured"
+    ],
+    "findings": [
+      {
+        "check": "Connectivity",
+        "result": "FAIL",
+        "detail": "<urlopen error [Errno 11001] getaddrinfo failed>"
+      }
+    ]
+  },
+  {
+    "domain": "experttransmissionasheville.com",
+    "url": "https://experttransmissionasheville.com",
+    "status": "UNREACHABLE",
+    "score": 0,
+    "issues": [
+      "Site unreachable: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ],
+    "opportunities": [
+      "Website may be down or misconfigured"
+    ],
+    "findings": [
+      {
+        "check": "Connectivity",
+        "result": "FAIL",
+        "detail": "<urlopen error [Errno 11001] getaddrinfo failed>"
+      }
+    ]
+  },
+  {
+    "domain": "organicmechanic.com",
+    "url": "https://organicmechanic.com",
+    "status": "UNREACHABLE",
+    "score": 0,
+    "issues": [
+      "Site unreachable: HTTP Error 404: Not Found"
+    ],
+    "opportunities": [
+      "Website may be down or misconfigured"
+    ],
+    "findings": [
+      {
+        "check": "Connectivity",
+        "result": "FAIL",
+        "detail": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "domain": "apexbugs.com",
+    "url": "https://apexbugs.com",
+    "status": "UNREACHABLE",
+    "score": 0,
+    "issues": [
+      "Site unreachable: HTTP Error 404: Not Found"
+    ],
+    "opportunities": [
+      "Website may be down or misconfigured"
+    ],
+    "findings": [
+      {
+        "check": "Connectivity",
+        "result": "FAIL",
+        "detail": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "domain": "gibsonpest.com",
+    "url": "https://www.gibsonpest.com/",
+    "title": "Pest Control Exterminator in Asheville, NC: Termites, Rodents, Mosquitoes, & More | Pest Control Near | Gibson Pest Control",
+    "status": "AUDITED",
+    "score": 93,
+    "grade": "A",
+    "load_time_ms": 1009,
+    "issues": [
+      "Missing Open Graph tags: og:title, og:description, og:image \u2014 links shared on Facebook/social look broken"
+    ],
+    "opportunities": [
+      "Social Sharing Preview Setup"
+    ],
+    "findings": [
+      {
+        "check": "HTTPS/SSL",
+        "result": "PASS",
+        "detail": "SSL active"
+      },
+      {
+        "check": "Load Speed",
+        "result": "PASS",
+        "detail": "1009ms"
+      },
+      {
+        "check": "Mobile Viewport",
+        "result": "PASS",
+        "detail": "Viewport tag present"
+      },
+      {
+        "check": "Tap-to-Call",
+        "result": "PASS",
+        "detail": "5 tel: link(s)"
+      },
+      {
+        "check": "Copyright Year",
+        "result": "PASS",
+        "detail": "\u00a9 2026"
+      },
+      {
+        "check": "Meta Description",
+        "result": "PASS",
+        "detail": "Meta description present"
+      },
+      {
+        "check": "Open Graph Tags",
+        "result": "FAIL",
+        "detail": "Missing: og:title, og:description, og:image"
+      },
+      {
+        "check": "Favicon",
+        "result": "PASS",
+        "detail": "Favicon present"
+      },
+      {
+        "check": "H1 Heading",
+        "result": "PASS",
+        "detail": "H1 tag present"
+      },
+      {
+        "check": "Image Alt Text",
+        "result": "PASS",
+        "detail": "100% coverage"
+      },
+      {
+        "check": "Schema.org",
+        "result": "PASS",
+        "detail": "Structured data present"
+      },
+      {
+        "check": "Broken Links",
+        "result": "PASS",
+        "detail": "Tested 5 links, all OK"
+      },
+      {
+        "check": "Page Title",
+        "result": "WARN",
+        "detail": "'Pest Control Exterminator in Asheville, NC: Termit...' (123 chars, ideal <60)"
+      }
+    ],
+    "recommended_product": "IDEA-05",
+    "contacts": {
+      "emails": [],
+      "phones": [
+        "828-684-1353",
+        "8384300000",
+        "0974092833",
+        "0113201378",
+        "1136145972",
+        "0263988117",
+        "0000000524",
+        "0000009963",
+        "6334199646",
+        "4178008462",
+        "8379711841",
+        "1318133655",
+        "1072400000",
+        "0857871886",
+        "8906832815",
+        "0000008597",
+        "0000003264",
+        "0000003117",
+        "9785737754",
+        "1577570060",
+        "2943866119",
+        "0000011623",
+        "0615360928",
+        "7444900000",
+        "2034800000",
+        "5361581495",
+        "0000006073",
+        "0728700000",
+        "0000001174",
+        "1022436306",
+        "0387735992",
+        "4219295963",
+        "8512839608",
+        "2487787402",
+        "0030016005",
+        "2772177319",
+        "8083900000",
+        "8680400000",
+        "9440447267",
+        "2144700000",
+        "2829448924"
+      ],
+      "tel_links": [
+        "tel:828-684-1353",
+        "tel:828-684-1353",
+        "tel:8286841353",
+        "tel:828-684-1353",
+        "tel:828-684-1353"
+      ],
+      "mailto_links": []
+    },
+    "stats": {
+      "total_links": 113,
+      "tel_links": 5,
+      "images": 12,
+      "images_with_alt": 12,
+      "social_links": 1
+    }
+  },
+  {
+    "domain": "gillespiedental.com",
+    "url": "https://gillespiedental.com",
+    "status": "UNREACHABLE",
+    "score": 0,
+    "issues": [
+      "Site unreachable: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ],
+    "opportunities": [
+      "Website may be down or misconfigured"
+    ],
+    "findings": [
+      {
+        "check": "Connectivity",
+        "result": "FAIL",
+        "detail": "<urlopen error [Errno 11001] getaddrinfo failed>"
+      }
+    ]
+  },
+  {
+    "domain": "mountainscapenc.com",
+    "url": "https://mountainscapenc.com",
+    "status": "UNREACHABLE",
+    "score": 0,
+    "issues": [
+      "Site unreachable: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ],
+    "opportunities": [
+      "Website may be down or misconfigured"
+    ],
+    "findings": [
+      {
+        "check": "Connectivity",
+        "result": "FAIL",
+        "detail": "<urlopen error [Errno 11001] getaddrinfo failed>"
+      }
+    ]
+  },
+  {
+    "domain": "lawnscapesasheville.com",
+    "url": "https://lawnscapesasheville.com",
+    "status": "UNREACHABLE",
+    "score": 0,
+    "issues": [
+      "Site unreachable: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ],
+    "opportunities": [
+      "Website may be down or misconfigured"
+    ],
+    "findings": [
+      {
+        "check": "Connectivity",
+        "result": "FAIL",
+        "detail": "<urlopen error [Errno 11001] getaddrinfo failed>"
+      }
+    ]
+  },
+  {
+    "domain": "mountainpressurewash.com",
+    "url": "https://mountainpressurewash.com",
+    "status": "UNREACHABLE",
+    "score": 0,
+    "issues": [
+      "Site unreachable: <urlopen error [Errno 11001] getaddrinfo failed>"
+    ],
+    "opportunities": [
+      "Website may be down or misconfigured"
+    ],
+    "findings": [
+      {
+        "check": "Connectivity",
+        "result": "FAIL",
+        "detail": "<urlopen error [Errno 11001] getaddrinfo failed>"
+      }
+    ]
+  }
+]
